@@ -1,0 +1,5 @@
+LH_Vision2_O_Update:BOOL[1]
+LH_Vision2_O_SeqNo_Data:STRING[20]
+LH_Vision2_O_BodyNo_Data:STRING[20]
+LH_Vision2_O_CarType_Data:INT[1]
+LH_Vision2_I_HeartBit:BOOL[1]
