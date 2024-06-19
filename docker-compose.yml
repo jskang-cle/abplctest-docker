@@ -1,0 +1,10 @@
+version: '3'
+services:
+  abserver:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 44818:44818
+    volumes:
+      - ./tags.txt:/app/tags.txt
